@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(203, 200, 200);
+}
+h1{
+    background-color: azure;
+    color: black;
+    padding: 5px;
+}
+.a{
+    color: white;
+    background-color: rgb(0, 93, 180);
+}
+.b{
+    color: white;
+    background-color: rgb(0, 93, 180);
+    opacity: 0.9;
+}
+.c{
+    color: white;
+    background-color: rgb(0, 93, 180);
+    opacity: 0.8;
+}
+.d{
+    color: white;
+    background-color: rgb(0, 93, 180);
+    opacity: 0.7;
+}
+.e{
+    color: white;
+    background-color: rgb(0, 93, 180);
+    opacity: 0.6;
+}
+.f{
+    color: white;
+    background-color: rgb(0, 93, 180);
+    opacity: 0.5;
+}
+.g{
+    color: white;
+    background-color: rgb(0, 93, 180);
+    opacity: 0.4;
+}
+.h{
+    color: white;
+    background-color: rgb(0, 180, 12);
+}
+.i{
+    color: white;
+    background-color: rgb(150, 0, 115);
+}
+.j{
+    color: white;
+    background-color: rgb(150, 0, 115);
+    opacity: 0.9;
+}
+.k{
+    color: white;
+    background-color: rgb(150, 0, 115);
+    opacity: 0.8;
+}
+.l{
+    color: white;
+    background-color: rgb(150, 0, 115);
+    opacity: 0.7;
+}
+.m{
+    color: white;
+    background-color: rgb(150, 0, 115);
+    opacity: 0.6;
+}
+.n{
+    color: white;
+    background-color: rgb(150, 0, 115);
+    opacity: 0.5;
+}
+.o{
+    color: white;
+    background-color: rgb(150, 0, 115);
+    opacity: 0.4;
+}
